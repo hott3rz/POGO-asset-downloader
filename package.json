@@ -24,7 +24,7 @@
     "downloader"
   ],
   "dependencies": {
-    "pogobuf": "gt+https://github.com/hott3rz/pogobuf.git",
+    "pogobuf": "git+https://github.com/hott3rz/pogobuf.git",
     "request": "^2.74.0",
     "pokename": "git+https://github.com/hott3rz/pokename.git"
   },
